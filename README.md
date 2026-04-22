@@ -25,12 +25,12 @@ The main goal of this application is to digitize the traditional blood donation 
 
 **Frontend:**
 
-* React / React Native
+* React Native
 
 **Backend:**
 
-* Node.js
-* Express.js
+* Python
+  
 
 **Database:**
 
